@@ -5,3 +5,10 @@
 
 # Practice embedding an image in markdown.
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+# Practice embedding a code snippet in markdown.
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
